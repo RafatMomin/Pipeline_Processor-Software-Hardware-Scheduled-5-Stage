@@ -6,7 +6,7 @@
 
 ## 🖼️ Processor Architecture
 
-![Processor Diagram](images/processor_diagram.png)
+![Processor Diagram](processor_diagram.png)
 
 This pipelined MIPS processor follows the standard 5-stage pipeline:
 
@@ -24,7 +24,7 @@ Both implementations handle hazards through different strategies:
 
 ## 📊 Performance Comparison
 
-![Processor Performance](images/Processor_performance.png)
+![Processor Performance](Processor_performance.png)
 
 This performance plot compares the throughput and cycle counts for both scheduling methods under benchmark tests.
 
