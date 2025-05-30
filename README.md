@@ -24,7 +24,7 @@ Both implementations handle hazards through different strategies:
 
 ## 📊 Performance Comparison
 
-![Processor Performance](images/processor_performance.png)
+![Processor Performance](images/Processor_performance.png)
 
 This performance plot compares the throughput and cycle counts for both scheduling methods under benchmark tests.
 
