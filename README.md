@@ -114,7 +114,7 @@ Used to test pipeline execution time, hazard handling, and correctness.
 📚 **CprE 381 – Computer Organization and Assembly**  
 🏫 Iowa State University  
 👨‍💻 **Rafat Momin**  **Tyler Kloser**
-[LinkedIn](https://www.linkedin.com/in/rafatmomin/) • [Email](rafatmom@iastate.edu)
+[LinkedIn](https://www.linkedin.com/in/rafatmomin/) 
 
 ---
 
